@@ -70,4 +70,14 @@ Detecting Small Road Hazards for Self-Driving Vehicles</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Small-Object-Detection-Papers/blob/master/os(36).pdf" style="text-decoration:none;">Traffic-Sign Detection and Classification in the Wild</a></li> 
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Small-Object-Detection-Papers/blob/master/os(37).pdf" style="text-decoration:none;">Small Object Detection in Optical Remote Sensing Images via Modified Faster R-CNN</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Small-Object-Detection-Papers/blob/master/os(38).pdf" style="text-decoration:none;">Recent advances in small object detection based on deep learning: A review</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Small-Object-Detection-Papers/blob/master/os(39).pdf" style="text-decoration:none;">Small Object Detection with Multiscale Features</a></li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 </ul>
